@@ -23,7 +23,7 @@ captured by the N170 but reflected in later potentials: A comparison of 2D and v
 
 ## Data
 We are providing the SHAP values calculated as can be seen in `sherpa_model.py` to try out the 
-functionality of SHERPA. 
+functionality of SHERPA. The data can be downloaded from https://myshare.uni-osnabrueck.de/f/884c479f583549f594a6/?dl=1
 
 ## Functionality
 
